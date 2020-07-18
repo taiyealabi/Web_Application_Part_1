@@ -9,3 +9,4 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![Screenshot of mySQLQuery](screenshots/mySQLQuery_Screenshot.JPG)
 
 #### postman screenshot
+![Screenshot of myPostmaan](screenshots/myPostman_Screenshot.JPG)
